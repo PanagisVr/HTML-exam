@@ -1,0 +1,21 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  body {
+    background-image: url('https://wallpaper.dog/large/20497857.jpg');
+    background-repeat: no-repeat;
+    background-size: 2000px 4000px;
+  }
+  

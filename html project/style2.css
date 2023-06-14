@@ -1,0 +1,46 @@
+header {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  #style2 p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  body {
+    background-image: url('https://pbs.twimg.com/card_img/1667966223026380801/b_s8gHiD?format=jpg&name=large');
+    background-repeat: no-repeat;
+    background-size: 2000px 1500px;
+  }
+  
+  footer {
+    
+    padding: 25px;
+    
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; 
+    background-color: #333;
+  }
